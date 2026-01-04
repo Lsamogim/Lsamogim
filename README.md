@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/Hp4lp3z6Mbhle/giphy.gif" width="100%" height="150" style="object-fit: cover;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Digital_rain_animation_medium_letters_shine.gif" width="100%" height="150" style="object-fit: cover;" />
 
   <h1 align="center" style="font-family: monospace;">> SYSTEM.USER: < Lucas Pereira >_</h1>
 
@@ -44,12 +44,17 @@ Sou o **Lucas**, um desenvolvedor focado em criar soluções web modernas e auto
 
 ---
 
-### 📊 Dados do Sistema (GitHub Stats)
+### 📊 Dados do Sistema
 
 <div align="center">
   <a href="https://github.com/Lsamogim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsamogim&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsamogim&layout=compact&theme=dark&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Lsamogim&theme=dark&background=000000&border=00FF00&dates=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=00FF00&card_width=490" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+  
+  <a href="https://github.com/Lsamogim">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lsamogim&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00"/>
   </a>
 </div>
 
