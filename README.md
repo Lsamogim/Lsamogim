@@ -1,46 +1,34 @@
 <div align="center">
+  
+  <img src="https://raw.githubusercontent.com/standupPp/standupPp/main/docs/matrix.gif" width="100%" style="object-fit: cover;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Digital_rain_animation_medium_letters_shine.gif" width="100%" height="150" style="object-fit: cover;" />
-
-  <h1 align="center" style="font-family: monospace;">> SYSTEM.USER: < Lucas Pereira >_</h1>
+  <h1 align="center" style="font-family: monospace; color: #00FF00;">> SYSTEM.USER: < Lucas Pereira >_</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=500&lines=Inicializando+Lsamogim.exe...;Dev+Fullstack+%26+Bot+Maker;React+%7C+Next.js+%7C+Node+%7C+Python;Automatizando+o+mundo+real...;Acesso+concedido." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=500&lines=Inicializando+Lsamogim.exe...;Dev+Fullstack+%26+Bot+Maker;React+%7C+Node+%7C+Python;Automatizando+o+tédio...;Acesso+concedido." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 ### 📟 /var/log/sobre_mim
-> "Eu não vejo o código. Eu vejo loiras, morenas, ruivas..." – *Brincadeira! Eu vejo soluções.* 🕶️
+> "Eu não vejo o código. Eu vejo loiras, morenas, ruivas..." – *Matrix* 🕶️
 
-Sou o **Lucas**, um desenvolvedor focado em criar soluções web modernas e automações inteligentes. Gosto de transitar entre o visual do frontend e a lógica "pesada" dos bots no backend.
+Sou o **Lucas**, desenvolvedor focado em criar soluções web modernas e automações inteligentes. Gosto de transitar entre o visual do frontend e a lógica "pesada" dos bots no backend.
 
-- 🔭 **Missão Atual:** Desenvolvendo um **Chatbot de Agendamento Inteligente** para clínica de estética (focado em UX e conversão).
-- 💻 **Stack Principal:** Web Development & Automação.
-- ⚡ **Fun fact:** Se uma tarefa leva mais de 5 minutos, eu provavelmente vou gastar 5 horas criando um script para fazê-la em 5 segundos.
+- 🔭 **Missão Atual:** Chatbot de Agendamento Inteligente para estética.
+- 💻 **Stack:** Web Development & Automação.
+- ⚡ **Fun fact:** Se uma tarefa leva mais de 5 minutos, eu crio um script para ela.
 
 ---
 
-### 💾 Tech Stack & Mainframe
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-
-</div>
+### 💾 Mainframe Skills
+| Frontend | Backend & Bots | Tools |
+| :---: | :---: | :---: |
+| ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032) |
+| ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) | ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933) | ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED) |
+| ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=43B02A) | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) |
+| ![NextJS](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=white) | ![Puppeteer](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=40B5A4) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 ---
 
@@ -48,13 +36,7 @@ Sou o **Lucas**, um desenvolvedor focado em criar soluções web modernas e auto
 
 <div align="center">
   <a href="https://github.com/Lsamogim">
-    <img src="https://streak-stats.demolab.com?user=Lsamogim&theme=dark&background=000000&border=00FF00&dates=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=00FF00&card_width=490" alt="GitHub Streak" />
-  </a>
-
-  <br/>
-  
-  <a href="https://github.com/Lsamogim">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lsamogim&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00"/>
+    <img src="https://streak-stats.demolab.com?user=Lsamogim&theme=dark&background=0D1117&border=00FF00&dates=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=00FF00&card_width=800" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -64,9 +46,9 @@ Sou o **Lucas**, um desenvolvedor focado em criar soluções web modernas e auto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucassamogimpereira" target="_blank">
-    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lsamogim22@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar_Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
